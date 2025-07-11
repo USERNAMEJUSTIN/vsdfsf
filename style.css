@@ -1,0 +1,106 @@
+*{
+    margin: auto;
+    background: black;
+}
+.idmainhead{
+    background: black;
+    height: 1500px;
+    width: 1500px;
+}
+.string{
+    color: white;
+    font-size: 120px;
+    text-align: center;
+    padding-top: 130px;
+    font-family: fantasy;
+    text-shadow: 0 0 10px rgb(238, 238, 15);
+    transition: 1s;
+    margin-left: 95px;
+}
+.string:hover{
+    font-size: 125px;
+    color: yellow;
+    padding-top: 130px;
+    font-family: fantasy;
+    text-shadow: 0 0 20px rgb(255, 255, 255);
+    transition: 1s;
+}
+.text{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    
+}
+.text1{
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    text-shadow: 0 0 10px rgb(238, 238, 15);
+    margin-left: 95px;
+}
+.text2{
+    font-size: 35px;
+    font-family: monaco;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-left: 95px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text3{
+    font-size: 15px;
+    font-family: monaco;
+    font-weight: 900;
+    width: 600px;
+    margin-top: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+    display: inline-block;
+    /* margin-left: 460px; */
+}
+
+.flower{
+    margin-left: 550px;
+    background-color: linear-gradient(grey,black);
+    width: 500px;
+    height: 450px;
+    border-radius: 50%;
+}
+.text4{
+    font-weight: 1200;
+    font-size: 20px;
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text5{
+     font-weight: 1200;
+    font-size: 20px;
+    color: pink;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.help{
+    color: white;
+}
+.leftflower{
+    padding-right: 100px;
+    display: inline;
+    padding-left: 0px;
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    padding-bottom: 250px;
+}
+.content{
+ display: inline-flex;
+}
+.rightflower{
+    padding-right: 100px;
+    display: inline;
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    margin-right: 50px;
+    color: red;
+    padding-bottom: 250px;
+}
